@@ -1,0 +1,6 @@
+# Git Heroes 
+1. Move the Heroes unordered list (<ul>) to it's own 
+component, HeroesList.js
+2. Move the HEROES the array to a service, Hero.
+service.js. Built a promise to be consumed in the
+ App's lifecycle event ComponentWillMount
